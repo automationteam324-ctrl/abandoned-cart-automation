@@ -1,70 +1,53 @@
-# Shopify Abandoned Cart Recovery Automation (n8n)
-
-This workflow helps recover lost sales by automatically sending follow-ups to users who abandoned their carts.
-
-## 🔹 Features:
-- Detects abandoned carts
-- Sends automated reminders (Email / WhatsApp)
-- Increases conversion rate
-- Tracks responses
-
-## 🔹 Tools Used:
-- n8n
-- Shopify
-- Email / WhatsApp API
-
-## 🔹 Workflow Steps:
-1. Trigger when cart is abandoned
-2. Wait for a specific time (e.g. 1 hour)
-3. Send reminder message
-4. Log data in Google Sheets
-
-## 🔹 Preview:
-![Workflow](./abandoned-cart.PNG)
 # 🛒 Shopify Abandoned Cart Recovery Automation (n8n)
 
 ## 🚀 Overview
-This workflow automatically detects abandoned carts and sends follow-up messages to recover lost sales.
+This automation helps Shopify store owners recover lost sales by automatically sending follow-up messages to customers who abandon their carts.
+
+It reduces manual work and increases conversion rates using smart automation.
 
 ---
 
-## ⚙️ Tools Used
-- n8n
+## ⚙️ Tools & Technologies
+- n8n (Workflow Automation)
 - Shopify
-- Email / API
+- Email / API Integration
 
 ---
 
 ## 💡 Features
-- Detects abandoned carts automatically
-- Sends follow-up reminders to customers
-- Helps increase conversion rate
-- Reduces manual effort
+- ✅ Automatically detects abandoned carts
+- ✅ Sends follow-up reminders to customers
+- ✅ Improves conversion rate
+- ✅ Reduces manual effort
+- ✅ Works automatically in the background
 
 ---
 
 ## 🔄 Workflow Process
-1. Detect abandoned cart event
-2. Wait for a specific time (e.g. 1 hour)
-3. Send reminder message
-4. Track response / log data
+1. Detect abandoned cart event from Shopify
+2. Wait for a specific delay (e.g. 1 hour)
+3. Send reminder email/message to customer
+4. Optionally log data in Google Sheets
 
 ---
 
-## 📸 Workflow
+## 📸 Workflow Screenshot
 ![Workflow](abandoned-cart.PNG)
 
 ---
 
-## 🎯 Use Case
-Perfect for Shopify stores looking to recover lost revenue.
+## 🎯 Use Cases
+- Shopify stores
+- eCommerce businesses
+- Online product sellers
 
 ---
 
 ## 🚀 Benefits
-- Increases sales
-- Saves time
-- Improves customer engagement
+- Recover lost revenue
+- Increase sales conversions
+- Save time on manual follow-ups
+- Improve customer engagement
 
 ---
 
@@ -72,5 +55,5 @@ Perfect for Shopify stores looking to recover lost revenue.
 
 If you want a similar system for your business, feel free to contact me.
 
-🔗 Fiverr: https://www.fiverr.com/automationte387
+🔗 Fiverr: https://www.fiverr.com/automationte387  
 🔗 Upwork: https://www.upwork.com/freelancers/~014bc64d5756b66b94
